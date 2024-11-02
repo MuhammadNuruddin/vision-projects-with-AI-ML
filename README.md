@@ -18,6 +18,8 @@ Welcome to my AI Vision Projects repository! Here you'll find a collection of ex
 ### Face Detection
 ![Face Detector](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/91cdaba9-9d55-48f5-86fd-65cd8626685a.gif?ClientID=sulu&Date=1730580970&Signature=884287ca054a54378d472debb682630ec65214bc)
 
+link:https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/91cdaba9-9d55-48f5-86fd-65cd8626685a.gif?ClientID=sulu&Date=1730580970&Signature=884287ca054a54378d472debb682630ec65214bc
+
 *Demonstrates face detection using an input video or webcam.*
 
 ### Face Detection (Camera)
@@ -43,6 +45,7 @@ Welcome to my AI Vision Projects repository! Here you'll find a collection of ex
 ### Pose Tracking Raid
 ![Pose Tracking Raid](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/4461fa30-8efa-4dfd-9d59-7a02e660864a.gif?ClientID=sulu&Date=1730581798&Signature=d73e67871810e1aa018d3ed52fccad31c7ce9feb)
 
+link:https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/4461fa30-8efa-4dfd-9d59-7a02e660864a.gif?ClientID=sulu&Date=1730581798&Signature=d73e67871810e1aa018d3ed52fccad31c7ce9feb
 *Tracks human poses in real-time.*
 
 ### Lateral Raise Detection
@@ -53,6 +56,8 @@ Welcome to my AI Vision Projects repository! Here you'll find a collection of ex
 ### Lateral Raise (Camera)
 ![Lateral Raise Camera](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/211d44d9-c25f-4faf-8f1f-23ea2bfc0697.gif?ClientID=sulu&Date=1730582071&Signature=02bd214accff3b852aad26006606b2f63206e0a5)
 
+link:
+https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/211d44d9-c25f-4faf-8f1f-23ea2bfc0697.gif?ClientID=sulu&Date=1730582071&Signature=02bd214accff3b852aad26006606b2f63206e0a5
 *Live camera analysis of lateral raises.*
 
 ### Hand Volume Control

@@ -2,3 +2,12 @@ __pycache__
 
 # Virtual environment
 vision_projects/
+
+# Ignore all video files
+*.mp4
+# Ignore other large or unwanted file types
+*.avi
+*.mkv
+*.mov
+*.zip
+*.tar.gz
